@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<train>
+  <positive>C:\projects\local\testMQ\testMQ\bin\Debug\mail_samples</positive>
+  <negative>C:\projects\local\testMQ\testMQ\bin\Debug\phone_icons</negative>
+  <number>750</number>
+  <complexity>10000</complexity>
+  <bow_output>C:\projects\local\testMQ\testMQ\bin\Debug\phone_icon_bow_1.bin</bow_output>
+  <machine_output>C:\projects\local\testMQ\testMQ\bin\Debug\phone_icon_machine_1.bin</machine_output>
+</train>
